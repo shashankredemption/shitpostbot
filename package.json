@@ -1,0 +1,26 @@
+{
+  "name": "dartbot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Shashank Bhargava <sbhargava@berkeley.edu>",
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "hubot": "^2.13.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.1.5",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.3.0",
+    "hubot-darts": "1.0.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
